@@ -3,7 +3,7 @@
 ## Global dependencies
 
 ```sh
-yarn add global @roamin/sdk-as-cli
+yarn global add @roamin/sdk-as-cli@1.1.1
 ```
 
 ## Build

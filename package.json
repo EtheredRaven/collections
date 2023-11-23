@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "license": "MIT",
   "type": "module",
-  "dependencies": {},
   "devDependencies": {
     "@as-covers/core": "^0.4.2",
     "@as-pect/cli": "^8.1.0",
@@ -13,6 +12,7 @@
     "@koinos/sdk-as": "^1.1.0",
     "@roamin/local-koinos": "^0.4.9",
     "@roamin/protoc": "^2.4.0",
+    "@roamin/sdk-as-cli": "1.1.1",
     "@types/jest": "^29.4.0",
     "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^5.10.0",
